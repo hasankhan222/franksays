@@ -1,0 +1,7 @@
+revslider/main.zip
+revslider/second.zip
+revslider/box.zip
+revslider/freelancer.zip
+revslider/creative.zip
+revslider/marketing.zip
+revslider/seo.zip
