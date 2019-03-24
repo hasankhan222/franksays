@@ -1,0 +1,216 @@
+# Translation of WordPress.com - Themes - Isca in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Isca package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 04:27:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Isca\n"
+
+#: inc/wpcom-colors.php:138
+msgid "Sidebar Widget Headings"
+msgstr "Cabeceras de Widget de barra lateral"
+
+#: inc/wpcom-colors.php:129
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/wpcom-colors.php:29
+msgid "Secondary Background"
+msgstr "Fondo secundario"
+
+#: inc/wpcom-colors.php:15
+msgid "Primary Background"
+msgstr "Fondo principal"
+
+#: functions.php:28
+msgid "Menu"
+msgstr "Menú"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/isca/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Página de ancho completo"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "An elegant magazine theme for WordPress, with a responsive design, and support for widgets, post thumbnails, custom headers and custom backgrounds."
+msgstr "Un tema de revista elegante para WordPress, con un diseño atrayente y compatible con widgets, publicaciones en miniatura, encabezados y fondos personalizados."
+
+#: single.php:35
+msgid "Tags: "
+msgstr "Etiquetas:"
+
+#: single.php:29
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Buscar..."
+
+#: search.php:31
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus búsqueda. Por favor, prueba de nuevo con diferentes palabras clave."
+
+#: search.php:12
+msgid "Search results for <em>&#8216;%s&#8217;</em>"
+msgstr "Resultados de la búsqueda para <em>&#8216;%s&#8217;</em>"
+
+#: inc/postmetadata.php:30
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/postmetadata.php:30
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/postmetadata.php:24
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/postmetadata.php:18
+msgid "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+
+#: archive.php:60 author.php:38 index.php:20 search.php:25
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; Más reciente"
+
+#: archive.php:59 author.php:37 index.php:19 search.php:24
+msgid "Older &rsaquo;"
+msgstr "Anterior &rsaquo;"
+
+#: functions.php:354
+msgid "Log in to reply"
+msgstr "Inicia sesión para responder"
+
+#: functions.php:353
+msgid "Reply &darr;"
+msgstr "Responder &darr;"
+
+#: functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: functions.php:331
+msgid "%1$s &bull; %2$s"
+msgstr "%1$s &bull; %2$s"
+
+#: functions.php:193
+msgid "Home"
+msgstr "Inicio"
+
+#: functions.php:168
+msgid "Footer Widgets"
+msgstr "Widgets del Pie"
+
+#: functions.php:155
+msgid "Sidebar Widgets"
+msgstr "Widgets de la barra lateral."
+
+#: functions.php:139
+msgid "Sub Navigation"
+msgstr "Subnavegación"
+
+#: functions.php:138
+msgid "Main Navigation"
+msgstr "Navegación principal"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:52
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "activado"
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:35
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Una Plataforma de Publicación Semántica Personal"
+
+#: custom-page-fullwidth.php:16 functions.php:333 header.php:64 page.php:11
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:32
+msgid "Continue Reading &rarr;"
+msgstr "Leer más &rarr;"
+
+#: content-gallery.php:13 content-page.php:12 functions.php:520
+msgid "Continue &rarr;"
+msgstr "Continuar →"
+
+#: content-attachment.php:39
+msgid "&laquo;Back"
+msgstr "&laquo;Volver"
+
+#: comments.php:37
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:29
+msgid "Newer Comments &rsaquo;"
+msgstr "Comentarios más recientes>"
+
+#: comments.php:26
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Comentarios antiguos"
+
+#: comments.php:19
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: comments.php:19 inc/postmetadata.php:30
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: comments.php:17
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 respuesta"
+msgstr[1] "%1$s respuestas"
+
+#: author.php:13
+msgid "Author Archives"
+msgstr "Archivos de autor"
+
+#: archive.php:67
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: archive.php:43
+msgid "Blog Archives"
+msgstr "Archivo del sitio"
+
+#: archive.php:26 archive.php:31 archive.php:37
+msgid "Archive for %s"
+msgstr "Archivos para %s"
+
+#: archive.php:20
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "Archivo de etiqueta para &#8216;%s&#8217;"
+
+#: 404.php:14
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "Lo sentimos, pero no ha sido encontrada la página que estás buscando. Intenta buscar errores en la URL y a continuación actualiza tu navegador."
+
+#: 404.php:13
+msgid "Oops!"
+msgstr "¡Ups!"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Error 404"

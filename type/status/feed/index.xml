@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Status &#8211; Frank says</title>
+	<atom:link href="http://franksays.tk/type/status/feed/" rel="self" type="application/rss+xml" />
+	<link>http://franksays.tk</link>
+	<description>Hello FRANK</description>
+	<lastBuildDate>
+	Sun, 24 Mar 2019 22:33:22 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Taking Shape</title>
+		<link>http://franksays.tk/taking-shape/</link>
+				<pubDate>Thu, 07 Jul 2011 16:15:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[announcement]]></category>
+		<category><![CDATA[theme]]></category>
+
+		<guid isPermaLink="false">http://demoxmlblog.wordpress.com/?p=55</guid>
+				<description><![CDATA[Things are starting to take shape around here. I hope you&#8217;re liking this theme!]]></description>
+								<content:encoded><![CDATA[<p>Things are starting to take shape around here. I hope you&#8217;re liking this theme!</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

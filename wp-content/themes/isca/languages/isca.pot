@@ -1,0 +1,258 @@
+# Copyright (C) 2017 Pro Theme Design
+# This file is distributed under the GNU General Public License version 2 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Isca 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/isca\n"
+"POT-Creation-Date: 2017-03-23 04:27:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops!"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"Sorry, but the page you are looking for has not been found. Try checking the "
+"URL for errors, then hit the refresh button in your browser."
+msgstr ""
+
+#: archive.php:20
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr ""
+
+#: archive.php:26 archive.php:31 archive.php:37
+msgid "Archive for %s"
+msgstr ""
+
+#: archive.php:43
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:59 author.php:37 index.php:19 search.php:24
+msgid "Older &rsaquo;"
+msgstr ""
+
+#: archive.php:60 author.php:38 index.php:20 search.php:25
+msgid "&lsaquo; Newer"
+msgstr ""
+
+#: archive.php:67
+msgid "Not Found"
+msgstr ""
+
+#: author.php:13
+msgid "Author Archives"
+msgstr ""
+
+#: comments.php:17
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:19 inc/postmetadata.php:30
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:19
+msgid "&rsaquo;"
+msgstr ""
+
+#: comments.php:26
+msgid "&lsaquo; Older Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "Newer Comments &rsaquo;"
+msgstr ""
+
+#: comments.php:37
+msgid "Trackbacks"
+msgstr ""
+
+#: content-attachment.php:14
+msgid ""
+"<p class=\"postmetadata\">Published <span class=\"entry-date\"><time class="
+"\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></p>"
+msgstr ""
+
+#: content-attachment.php:39
+msgid "&laquo;Back"
+msgstr ""
+
+#: content-gallery.php:10 content-image.php:14 content-link.php:10
+#: content-video.php:15 content.php:18
+msgid "Permalink for: %s"
+msgstr ""
+
+#: content-gallery.php:13 content-page.php:12 functions.php:520
+msgid "Continue &rarr;"
+msgstr ""
+
+#: content.php:32
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: custom-page-fullwidth.php:16 functions.php:333 header.php:64 page.php:11
+msgid "Edit"
+msgstr ""
+
+#: footer.php:35
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:28
+msgid "Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Lora, translate this to 'off'. Do not translate into your
+#. 	 * own language.
+#: functions.php:52
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:138
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:139
+msgid "Sub Navigation"
+msgstr ""
+
+#: functions.php:155
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:193
+msgid "Home"
+msgstr ""
+
+#: functions.php:331
+msgid "%1$s &bull; %2$s"
+msgstr ""
+
+#: functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:353
+msgid "Reply &darr;"
+msgstr ""
+
+#: functions.php:354
+msgid "Log in to reply"
+msgstr ""
+
+#: inc/postmetadata.php:18
+msgid ""
+"<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: inc/postmetadata.php:24
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/postmetadata.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: inc/postmetadata.php:30
+msgid "% Comments"
+msgstr ""
+
+#: inc/wpcom-colors.php:15
+msgid "Primary Background"
+msgstr ""
+
+#: inc/wpcom-colors.php:29
+msgid "Secondary Background"
+msgstr ""
+
+#: inc/wpcom-colors.php:129
+msgid "Links"
+msgstr ""
+
+#: inc/wpcom-colors.php:138
+msgid "Sidebar Widget Headings"
+msgstr ""
+
+#: search.php:12
+msgid "Search results for <em>&#8216;%s&#8217;</em>"
+msgstr ""
+
+#: search.php:31
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: single.php:29
+msgid "Categories: "
+msgstr ""
+
+#: single.php:35
+msgid "Tags: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "Isca"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "https://wordpress.com/theme/isca/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid ""
+"An elegant magazine theme for WordPress, with a responsive design, and "
+"support for widgets, post thumbnails, custom headers and custom backgrounds."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "Pro Theme Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "https://prothemedesign.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/isca/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr ""

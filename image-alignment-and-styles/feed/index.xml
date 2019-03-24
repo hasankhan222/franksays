@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Image Alignment and Styles	</title>
+	<atom:link href="http://franksays.tk/image-alignment-and-styles/feed/" rel="self" type="application/rss+xml" />
+	<link>http://franksays.tk</link>
+	<description>Hello FRANK</description>
+	<lastBuildDate>
+	Sun, 24 Mar 2019 22:33:22 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Takashi Irie				</title>
+				<link>http://franksays.tk/image-alignment-and-styles/#comment-5</link>
+		<dc:creator><![CDATA[Takashi Irie]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2011 11:42:30 +0000</pubDate>
+		<guid isPermaLink="false">http://demoxmlblog.wordpress.com/?page_id=30#comment-5</guid>
+					<description><![CDATA[I&#039;m not the biggest fan of Jellyfish, you?]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m not the biggest fan of Jellyfish, you?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

@@ -1,0 +1,200 @@
+# Translation of WordPress.com - Themes - Isca in Hungarian
+# This file is distributed under the same license as the WordPress.com - Themes - Isca package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 04:27:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: WordPress.com - Themes - Isca\n"
+
+#: inc/wpcom-colors.php:138
+msgid "Sidebar Widget Headings"
+msgstr "Oldalsáv widget kiemelések"
+
+#: inc/wpcom-colors.php:129
+msgid "Links"
+msgstr "Hivatkozások"
+
+#: inc/wpcom-colors.php:29
+msgid "Secondary Background"
+msgstr "Másodlagos háttér"
+
+#: inc/wpcom-colors.php:15
+msgid "Primary Background"
+msgstr "Elsődleges háttér"
+
+#: functions.php:28
+msgid "Menu"
+msgstr "Menü"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/isca/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Teljes szélesség"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/isca/style.css
+msgid "An elegant magazine theme for WordPress, with a responsive design, and support for widgets, post thumbnails, custom headers and custom backgrounds."
+msgstr "Egy elegáns magazin megjelenésű reszponzív WordPress sablon, amely támogatja a widgeteket, bejegyzés bélyegképeket, egyéni fejrészt és háttereket."
+
+#: single.php:35
+msgid "Tags: "
+msgstr "Címkék:"
+
+#: single.php:29
+msgid "Categories: "
+msgstr "Kategóriák:"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Keresés..."
+
+#: search.php:31
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sajnos, nem található a keresési feltételnek megfelelő tartalom. Próbáljuk meg újra, más kifejezésekkel."
+
+#: inc/postmetadata.php:30
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: inc/postmetadata.php:30
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: inc/postmetadata.php:24
+msgid "View all posts by %s"
+msgstr "%s bejegyzései"
+
+#: inc/postmetadata.php:18
+msgid "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+
+#: archive.php:60 author.php:38 index.php:20 search.php:25
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; Újabb"
+
+#: archive.php:59 author.php:37 index.php:19 search.php:24
+msgid "Older &rsaquo;"
+msgstr "Régebbi &rsaquo;"
+
+#: functions.php:354
+msgid "Log in to reply"
+msgstr "Be kell jelentkezni a válaszadáshoz"
+
+#: functions.php:353
+msgid "Reply &darr;"
+msgstr "Hozzászólás &darr;"
+
+#: functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólás rendszer-moderációra várakozik."
+
+#: functions.php:331
+msgid "%1$s &bull; %2$s"
+msgstr "%1$s &bull; %2$s"
+
+#: functions.php:193
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: functions.php:168
+msgid "Footer Widgets"
+msgstr "Lábléc Widgetek"
+
+#: functions.php:155
+msgid "Sidebar Widgets"
+msgstr "Widgetek az oldalsávban"
+
+#: functions.php:139
+msgid "Sub Navigation"
+msgstr "Al-menü"
+
+#: functions.php:138
+msgid "Main Navigation"
+msgstr "Fő navigáció"
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Sablon: %1$s Szerző: %2$s."
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "Köszönjük %s!"
+
+#: footer.php:35
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Egy szemantikus személyes közzétételi platform"
+
+#: custom-page-fullwidth.php:16 functions.php:333 header.php:64 page.php:11
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: content.php:32
+msgid "Continue Reading &rarr;"
+msgstr "Bővebben &rarr;"
+
+#: content-gallery.php:13 content-page.php:12 functions.php:520
+msgid "Continue &rarr;"
+msgstr "Folytatás &rarr;"
+
+#: comments.php:37
+msgid "Trackbacks"
+msgstr "Visszakövetés"
+
+#: comments.php:29
+msgid "Newer Comments &rsaquo;"
+msgstr "Újabb hozzászólások &rsaquo;"
+
+#: comments.php:26
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Régebbi Hozzászólások"
+
+#: comments.php:19
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: comments.php:19 inc/postmetadata.php:30
+msgid "Leave a comment"
+msgstr "Hozzászólás"
+
+#: comments.php:17
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 hozzászólás"
+msgstr[1] "%1$s hozzászólás"
+
+#: author.php:13
+msgid "Author Archives"
+msgstr "Szerző archívumok"
+
+#: archive.php:67
+msgid "Not Found"
+msgstr "Nincs találat"
+
+#: archive.php:43
+msgid "Blog Archives"
+msgstr "Valamennyi bejegyzés"
+
+#: archive.php:26 archive.php:31 archive.php:37
+msgid "Archive for %s"
+msgstr "%s havi archívum"
+
+#: archive.php:20
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "Címke archívum &#8216;%s&#8217;"
+
+#: 404.php:14
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "A keresett oldal sajnos nem található. Ellenőrizze az oldalcímet, majd frissítse a böngészőjét."
+
+#: 404.php:13
+msgid "Oops!"
+msgstr "Hoppá!"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "404 hiba"

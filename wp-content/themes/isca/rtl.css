@@ -1,0 +1,279 @@
+blockquote {
+	border-right: 3px solid #cccccc;
+	border-left: none;
+}
+
+.older,
+.right {
+	float: right;
+}
+
+.left,
+.newer {
+	float: left;
+}
+
+.nav li {
+	float: right;
+}
+
+.nav ul {
+	right: 0;
+	background: -webkit-gradient(linear,right top,right bottom,color-stop(0%,#b5bdc8),color-stop(0%,#ffffff),color-stop(100%,#e4e4e4));
+	text-align: right;
+	left: auto;
+}
+
+.nav ul ul {
+	right: 100%;
+	left: auto;
+}
+
+.nav .has-children {
+	padding-left: 24px !important;
+	padding-right: 0;
+}
+
+.nav .has-children:after {
+	left: 12px;
+	right: auto;
+}
+
+#nav-primary li {
+	border-left: 1px solid #101314;
+	border-right: 1px solid #393e40;
+}
+
+#lead-image {
+	float: right;
+	margin: 2% 2% 2% 0;
+}
+
+#lead-text {
+	float: left;
+}
+
+#featured-cats {
+	width: right;
+}
+
+#recent-excerpts .wp-post-image {
+	float: right;
+	margin: 15px 4px 0 15px;
+}
+
+#error-msg {
+	margin: 32px 181px 0 0;
+}
+
+.commentcount {
+	padding-right: 17px;
+	padding-left: 0;
+}
+
+#writer .avatar {
+	margin: 4px 0 7px 17px;
+}
+
+#pagination li {
+	float: right;
+}
+
+#pagination li#newer {
+	float: left;
+}
+
+.archive article,
+.page-template-custom-page-blog-php article,
+.search article {
+	float: right;
+}
+
+.thumb-wrap img {
+	float: right;
+	margin: 3px 3px 20px 15px;
+}
+
+.widget li {
+	margin-right: 15px;
+	margin-left: auto;
+}
+
+aside .widget-wrap li li {
+	margin: 0 30px 0 0;
+}
+
+aside .widget-wrap .avatar {
+	margin: 10px 10px 0 7px;
+}
+
+.entry ol li,
+.entry ul li {
+	margin: 0 48px 10px 0;
+}
+
+.postnav.left {
+	text-align: left;
+}
+
+#tags a,
+#tags a:visited {
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+#sharethis a,
+#sharethis a:visited {
+	padding: 4px 6px 4px 14px;
+}
+
+.entry #sharethis img {
+	margin: 0 0 0 2px;
+}
+
+.entry #related-posts li {
+	float: right;
+}
+
+.entry #related-posts img {
+	float: right;
+	margin: 0 0 0 12px;
+}
+
+img.alignright {
+	margin: 5px 5px 10px 15px;
+	float: right;
+}
+
+img.alignleft {
+	margin: 5px 15px 10px 5px;
+	float: left;
+}
+
+.wp-caption.alignright {
+	float: right;
+	margin: 20px 0 10px 22px;
+}
+
+.wp-caption.alignleft {
+	float: left;
+	margin: 20px 22px 10px 0;
+}
+
+#image-gallery .image-gallery-item {
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+.commentlist ol,
+.commentlist ul {
+	margin-right: 22px;
+	margin-left: auto;
+}
+
+.commentlist li.depth-2,
+.commentlist li.depth-3,
+.commentlist li.depth-4,
+.commentlist li.depth-5 {
+	padding: 10px 20px 10px 0;
+	margin: 10px 20px 10px 0;
+	border-right: 1px solid #d6d6d6;
+	border-left: none;
+}
+
+.avatar {
+	margin: 3px 0 0 11px;
+	float: right;
+}
+
+#trackbacklist li {
+	margin: 10px 35px 10px 0;
+}
+
+#cancel-comment-reply-link {
+	margin-right: 12px;
+	margin-left: auto;
+}
+
+#commentform input[type=text] {
+	float: right;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+.button,
+.form-submit input,
+.menu#nav-lower {
+	background: -webkit-gradient(linear,right top,right bottom,color-stop(0%,#fefefe),color-stop(100%,#e1e1e1));
+}
+
+header .searchform {
+	float: left;
+}
+
+.searchsubmit {
+	margin: 6px -24px 0 0;
+}
+
+footer .left {
+	text-align: left;
+}
+
+footer .col {
+	float: right;
+}
+
+.eightcol,
+.elevencol,
+.fivecol,
+.fourcol,
+.ninecol,
+.onecol,
+.sevencol,
+.sixcol,
+.tencol,
+.threecol,
+.twocol {
+	margin-left: 3.8%;
+	float: right;
+	margin-right: auto;
+}
+
+.row .fourcol {
+	float: left;
+}
+
+.row .eightcol {
+	float: right;
+}
+
+.row .ninecol#recent-posts {
+	float: left;
+}
+
+.row .twelvecol {
+	float: right;
+}
+
+.last {
+	margin-left: 0;
+	margin-right: auto;
+}
+
+.row,
+body {
+	margin-right: 0;
+	margin-left: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#recent-excerpts .wp-post-image {
+	margin: 17px 0 6px 12px;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+	#recent-excerpts .wp-post-image {
+		margin: 17px 0 6px 12px;
+	}
+}

@@ -1,0 +1,176 @@
+# Translation of WordPress.com - Themes - Isca in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Isca package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 03:25:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Isca\n"
+
+#: functions.php:28
+msgid "Menu"
+msgstr "मेनु"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/isca/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "पूर्ण चौड़ाई"
+
+#: single.php:35
+msgid "Tags: "
+msgstr "टैग:"
+
+#: single.php:29
+msgid "Categories: "
+msgstr "श्रेणी:"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "खोजें..."
+
+#: search.php:31
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "माफ़ करें, लेकिन आपके खोज से कुछ भी नहीं मिला है। कृपया कुछ अलग खोजशब्दों के साथ फ़िर से कोशिश करें।"
+
+#: search.php:12
+msgid "Search results for <em>&#8216;%s&#8217;</em>"
+msgstr "<em>&#8216;%s&#8217;</em> के लिए खोज परिणाम"
+
+#: inc/postmetadata.php:30
+msgid "% Comments"
+msgstr "%s टिप्पणियाँ"
+
+#: inc/postmetadata.php:30
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: inc/postmetadata.php:24
+msgid "View all posts by %s"
+msgstr "%s द्वारा सभी पोस्ट देखें"
+
+#: inc/postmetadata.php:18
+msgid "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<a href=\"%1$s\" class=\"permalink entry-date\" rel=\"bookmark\"><time datetime=\"%3$s\">%4$s</time></a>"
+
+#: archive.php:60 author.php:38 index.php:20 search.php:25
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; नई"
+
+#: archive.php:59 author.php:37 index.php:19 search.php:24
+msgid "Older &rsaquo;"
+msgstr "पुराना &rsaquo;"
+
+#: functions.php:354
+msgid "Log in to reply"
+msgstr "जवाब देने के लिएँ लॊग-इन किजीए"
+
+#: functions.php:353
+msgid "Reply &darr;"
+msgstr "जवाब दें &darr;"
+
+#: functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है।"
+
+#: functions.php:331
+msgid "%1$s &bull; %2$s"
+msgstr "%1$s &bull; %2$s"
+
+#: functions.php:168
+msgid "Footer Widgets"
+msgstr "फूटर विगेट्स"
+
+#: functions.php:155
+msgid "Sidebar Widgets"
+msgstr "साइडबार विगेट्स"
+
+#: functions.php:138
+msgid "Main Navigation"
+msgstr "मुख्य नेविगेशन"
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:35
+msgid "A Semantic Personal Publishing Platform"
+msgstr "एक अर्थगत निजी प्रकाशन मंच"
+
+#: custom-page-fullwidth.php:16 functions.php:333 header.php:64 page.php:11
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: content.php:32
+msgid "Continue Reading &rarr;"
+msgstr "पढ़ना जारी रखें &rarr;"
+
+#: content-gallery.php:13 content-page.php:12 functions.php:520
+msgid "Continue &rarr;"
+msgstr "जारी रखें &rarr;"
+
+#: content-gallery.php:10 content-image.php:14 content-link.php:10
+#: content-video.php:15 content.php:18
+msgid "Permalink for: %s"
+msgstr "के लिए पर्मालिंक: %s"
+
+#: content-attachment.php:39
+msgid "&laquo;Back"
+msgstr "&laquo;वापस"
+
+#: comments.php:37
+msgid "Trackbacks"
+msgstr "ट्रैकबैक्स"
+
+#: comments.php:29
+msgid "Newer Comments &rsaquo;"
+msgstr "नई टिप्पणियाँ &rsaquo;"
+
+#: comments.php:26
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; पुरानी टिप्पणियाँ"
+
+#: comments.php:19
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: comments.php:19 inc/postmetadata.php:30
+msgid "Leave a comment"
+msgstr "एक टिप्पणी छोड़ें"
+
+#: comments.php:17
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 जवाब"
+msgstr[1] "%1$s जवाबे"
+
+#: author.php:13
+msgid "Author Archives"
+msgstr "लेखक अभिलेख"
+
+#: archive.php:67
+msgid "Not Found"
+msgstr "नहीं मिला"
+
+#: archive.php:43
+msgid "Blog Archives"
+msgstr "ब्लॉग पुरालेख"
+
+#: archive.php:26 archive.php:31 archive.php:37
+msgid "Archive for %s"
+msgstr "%s के लिए पुरालेख"
+
+#: 404.php:13
+msgid "Oops!"
+msgstr "उफ़!"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "त्रुटि 404"
